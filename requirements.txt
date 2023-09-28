@@ -1,0 +1,2 @@
+requests-html==0.10.0
+dataclasses==0.8  # If you're using Python 3.6 or lower
